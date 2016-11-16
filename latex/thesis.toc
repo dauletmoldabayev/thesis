@@ -1,12 +1,11 @@
-\contentsline {chapter}{Scientific environment}{i}{chapter*.1}
-\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}
-\contentsline {chapter}{Abstract}{v}{chapter*.3}
-\contentsline {chapter}{List of papers}{vii}{chapter*.4}
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Introduction to the papers}{3}{chapter.2}
-\contentsline {chapter}{\numberline {3}Scientific results}{5}{chapter.3}
-\contentsline {section}{\numberline {3.1}Paper title}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Paper title}{19}{section.3.2}
-\contentsline {section}{\numberline {3.3}Paper title}{39}{section.3.3}
-\contentsline {section}{\numberline {3.4}Paper title}{69}{section.3.4}
-\contentsline {chapter}{\numberline {A}Some appendix}{91}{appendix.A}
+\contentsline {chapter}{Acknowledgements}{i}{chapter*.1}
+\contentsline {chapter}{Abstract}{iii}{chapter*.2}
+\contentsline {chapter}{List of papers}{v}{chapter*.3}
+\contentsline {part}{I\hspace {1em}Background}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Introduction to the papers}{5}{chapter.2}
+\contentsline {part}{II\hspace {1em}Scientific results}{7}{part.2}
+\contentsline {section}{\numberline {2.1}The Whitham equation as a model for surface water waves}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}The Whitham equation with surface tension}{21}{section.2.2}
+\contentsline {section}{\numberline {2.3}A numerical study of nonlinear dispersive wave models with SpecTraVVave}{41}{section.2.3}
+\contentsline {section}{\numberline {2.4}Explicit solutions for a long-wave model with constant vorticity}{71}{section.2.4}

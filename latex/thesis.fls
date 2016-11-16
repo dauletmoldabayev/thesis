@@ -129,8 +129,6 @@ INPUT macros.tex
 INPUT macros.tex
 INPUT thesis.aux
 INPUT thesis.aux
-INPUT scientific_environment.aux
-INPUT scientific_environment.aux
 INPUT acknowledgements.aux
 INPUT acknowledgements.aux
 INPUT abstract.aux
@@ -143,8 +141,6 @@ INPUT introduction_papers.aux
 INPUT introduction_papers.aux
 INPUT papers.aux
 INPUT papers.aux
-INPUT appendixA.aux
-INPUT appendixA.aux
 OUTPUT thesis.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
@@ -205,15 +201,12 @@ INPUT figurer/uglo.eps
 INPUT figurer/uglo.eps
 OUTPUT thesis.dvi
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-OUTPUT scientific_environment.aux
-INPUT scientific_environment.tex
-INPUT scientific_environment.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7tn.tfm
 OUTPUT acknowledgements.aux
 INPUT acknowledgements.tex
 INPUT acknowledgements.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7tn.tfm
 OUTPUT abstract.aux
 INPUT abstract.tex
 INPUT abstract.tex
@@ -249,12 +242,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 OUTPUT thesis.toc
-INPUT thesis.lof
-INPUT thesis.lof
-OUTPUT thesis.lof
-INPUT thesis.lol
-INPUT thesis.lol
-OUTPUT thesis.lol
 OUTPUT introduction.aux
 INPUT introduction.tex
 INPUT introduction.tex
@@ -413,9 +400,6 @@ INPUT ../papers/paper-4/page_17.ps
 INPUT ../papers/paper-4/page_17.ps
 INPUT ../papers/paper-4/page_18.ps
 INPUT ../papers/paper-4/page_18.ps
-OUTPUT appendixA.aux
-INPUT appendixA.tex
-INPUT appendixA.tex
 INPUT thesis.bbl
 INPUT thesis.bbl
 INPUT thesis.brf
@@ -428,8 +412,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT thesis.aux
-INPUT scientific_environment.aux
-INPUT scientific_environment.aux
 INPUT acknowledgements.aux
 INPUT acknowledgements.aux
 INPUT abstract.aux
@@ -442,8 +424,6 @@ INPUT introduction_papers.aux
 INPUT introduction_papers.aux
 INPUT papers.aux
 INPUT papers.aux
-INPUT appendixA.aux
-INPUT appendixA.aux
 INPUT ./thesis.out
 INPUT ./thesis.out
 INPUT ./thesis.brf
