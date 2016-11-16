@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.11.15)  15 NOV 2016 21:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.11.15)  16 NOV 2016 18:32
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -975,7 +975,7 @@ File: ../papers/paper-2/page_16.ps Graphic file (type eps)
 <../papers/paper-2/page_16.ps> [37]
 File: ../papers/paper-2/page_17.ps Graphic file (type eps)
  <../papers/paper-2/page_17.ps> [38]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
@@ -1002,59 +1002,162 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 ] [40
 
 ]
+File: ../papers/paper-3/page_0.ps Graphic file (type eps)
+ <../papers/paper-3/page_0.ps> [41]
+File: ../papers/paper-3/page_1.ps Graphic file (type eps)
+ <../papers/paper-3/page_1.ps>
+[42]
+File: ../papers/paper-3/page_2.ps Graphic file (type eps)
+ <../papers/paper-3/page_2.ps> [43]
+File: ../papers/paper-3/page_3.ps Graphic file (type eps)
+ <../papers/paper-3/page_3.ps> [44]
+File: ../papers/paper-3/page_4.ps Graphic file (type eps)
+
+<../papers/paper-3/page_4.ps> [45]
+File: ../papers/paper-3/page_5.ps Graphic file (type eps)
+ <../papers/paper-3/page_5.ps> [46]
+File: ../papers/paper-3/page_6.ps Graphic file (type eps)
+
+<../papers/paper-3/page_6.ps> [47]
+File: ../papers/paper-3/page_7.ps Graphic file (type eps)
+ <../papers/paper-3/page_7.ps> [48]
+File: ../papers/paper-3/page_8.ps Graphic file (type eps)
+
+<../papers/paper-3/page_8.ps> [49]
+File: ../papers/paper-3/page_9.ps Graphic file (type eps)
+ <../papers/paper-3/page_9.ps> [50]
+File: ../papers/paper-3/page_10.ps Graphic file (type eps)
+
+<../papers/paper-3/page_10.ps> [51]
+File: ../papers/paper-3/page_11.ps Graphic file (type eps)
+ <../papers/paper-3/page_11.ps> [52]
+File: ../papers/paper-3/page_12.ps Graphic file (type eps)
+
+<../papers/paper-3/page_12.ps> [53]
+File: ../papers/paper-3/page_13.ps Graphic file (type eps)
+ <../papers/paper-3/page_13.ps> [54]
+File: ../papers/paper-3/page_14.ps Graphic file (type eps)
+
+<../papers/paper-3/page_14.ps> [55]
+File: ../papers/paper-3/page_15.ps Graphic file (type eps)
+ <../papers/paper-3/page_15.ps> [56]
+File: ../papers/paper-3/page_16.ps Graphic file (type eps)
+
+<../papers/paper-3/page_16.ps> [57]
+File: ../papers/paper-3/page_17.ps Graphic file (type eps)
+ <../papers/paper-3/page_17.ps> [58]
+File: ../papers/paper-3/page_18.ps Graphic file (type eps)
+
+<../papers/paper-3/page_18.ps> [59]
+File: ../papers/paper-3/page_19.ps Graphic file (type eps)
+ <../papers/paper-3/page_19.ps> [60]
+File: ../papers/paper-3/page_20.ps Graphic file (type eps)
+
+<../papers/paper-3/page_20.ps> [61]
+File: ../papers/paper-3/page_21.ps Graphic file (type eps)
+ <../papers/paper-3/page_21.ps> [62]
+File: ../papers/paper-3/page_22.ps Graphic file (type eps)
+
+<../papers/paper-3/page_22.ps> [63]
+File: ../papers/paper-3/page_23.ps Graphic file (type eps)
+ <../papers/paper-3/page_23.ps> [64]
+File: ../papers/paper-3/page_24.ps Graphic file (type eps)
+
+<../papers/paper-3/page_24.ps> [65]
+File: ../papers/paper-3/page_25.ps Graphic file (type eps)
+ <../papers/paper-3/page_25.ps> [66]
+File: ../papers/paper-3/page_26.ps Graphic file (type eps)
+
+<../papers/paper-3/page_26.ps> [67] [68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[69] [70
+
+]
 File: ../papers/paper-4/page_0.ps Graphic file (type eps)
- <../papers/paper-4/page_0.ps> [41]
+ <../papers/paper-4/page_0.ps> [71]
 File: ../papers/paper-4/page_1.ps Graphic file (type eps)
  <../papers/paper-4/page_1.ps>
-[42]
+[72]
 File: ../papers/paper-4/page_2.ps Graphic file (type eps)
- <../papers/paper-4/page_2.ps> [43]
+ <../papers/paper-4/page_2.ps> [73]
 File: ../papers/paper-4/page_3.ps Graphic file (type eps)
- <../papers/paper-4/page_3.ps> [44]
+ <../papers/paper-4/page_3.ps> [74]
 File: ../papers/paper-4/page_4.ps Graphic file (type eps)
 
-<../papers/paper-4/page_4.ps> [45]
+<../papers/paper-4/page_4.ps> [75]
 File: ../papers/paper-4/page_5.ps Graphic file (type eps)
- <../papers/paper-4/page_5.ps> [46]
+ <../papers/paper-4/page_5.ps> [76]
 File: ../papers/paper-4/page_6.ps Graphic file (type eps)
 
-<../papers/paper-4/page_6.ps> [47]
+<../papers/paper-4/page_6.ps> [77]
 File: ../papers/paper-4/page_7.ps Graphic file (type eps)
  <../papers/paper-4/page_7.ps>
 
-LaTeX Warning: Float too large for page by 39.70255pt on input line 50.
+LaTeX Warning: Float too large for page by 39.70255pt on input line 66.
 
-[48]
+[78]
 File: ../papers/paper-4/page_8.ps Graphic file (type eps)
- <../papers/paper-4/page_8.ps> [49]
+ <../papers/paper-4/page_8.ps> [79]
 File: ../papers/paper-4/page_9.ps Graphic file (type eps)
- <../papers/paper-4/page_9.ps> [50]
+ <../papers/paper-4/page_9.ps> [80]
 File: ../papers/paper-4/page_10.ps Graphic file (type eps)
 
-<../papers/paper-4/page_10.ps> [51]
+<../papers/paper-4/page_10.ps> [81]
 File: ../papers/paper-4/page_11.ps Graphic file (type eps)
- <../papers/paper-4/page_11.ps> [52]
+ <../papers/paper-4/page_11.ps> [82]
 File: ../papers/paper-4/page_12.ps Graphic file (type eps)
 
-<../papers/paper-4/page_12.ps> [53]
+<../papers/paper-4/page_12.ps> [83]
 File: ../papers/paper-4/page_13.ps Graphic file (type eps)
- <../papers/paper-4/page_13.ps> [54]
+ <../papers/paper-4/page_13.ps> [84]
 File: ../papers/paper-4/page_14.ps Graphic file (type eps)
 
-<../papers/paper-4/page_14.ps> [55]
+<../papers/paper-4/page_14.ps> [85]
 File: ../papers/paper-4/page_15.ps Graphic file (type eps)
- <../papers/paper-4/page_15.ps> [56]
+ <../papers/paper-4/page_15.ps> [86]
 File: ../papers/paper-4/page_16.ps Graphic file (type eps)
 
-<../papers/paper-4/page_16.ps> [57]
+<../papers/paper-4/page_16.ps> [87]
 File: ../papers/paper-4/page_17.ps Graphic file (type eps)
- <../papers/paper-4/page_17.ps> [58]
+ <../papers/paper-4/page_17.ps> [88]
 File: ../papers/paper-4/page_18.ps Graphic file (type eps)
 
-<../papers/paper-4/page_18.ps> [59])
+<../papers/paper-4/page_18.ps> [89])
 \openout2 = `appendixA.aux'.
 
- (./appendixA.tex [60
+ (./appendixA.tex [90
 
 
 
@@ -1079,7 +1182,7 @@ File: ../papers/paper-4/page_18.ps Graphic file (type eps)
 
 ]
 Appendix A.
-) [61] [62
+) [91] [92
 
 
 ] (./thesis.bbl (./thesis.brf)
@@ -1097,7 +1200,7 @@ LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <13> not available
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
- [63
+ [93
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
@@ -1107,7 +1210,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 229.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 4F5D7F73B9741A8996667CC4FBAE61A4;587.
+(rerunfilecheck)             Checksum: B5B2BE5B5BE38D5B3CE59412616F95CC;645.
 Package rerunfilecheck Info: File `thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: 4E71237CA3F8035AE67AF81C3DACA771;112.
 
@@ -1118,12 +1221,12 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
  ) 
 Here is how much of TeX's memory you used:
- 8901 strings out of 493305
- 127227 string characters out of 6139896
- 218130 words of memory out of 5000000
- 12113 multiletter control sequences out of 15000+600000
+ 8937 strings out of 493305
+ 128155 string characters out of 6139896
+ 219195 words of memory out of 5000000
+ 12140 multiletter control sequences out of 15000+600000
  49528 words of font info for 81 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  32i,11n,43p,411b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.dvi (79 pages, 39624 bytes).
+Output written on thesis.dvi (109 pages, 52780 bytes).

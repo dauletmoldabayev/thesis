@@ -8,4 +8,5 @@
 \contentsline {section}{\numberline {3.1}Paper title}{7}{section.3.1}
 \contentsline {section}{\numberline {3.2}Paper title}{19}{section.3.2}
 \contentsline {section}{\numberline {3.3}Paper title}{39}{section.3.3}
-\contentsline {chapter}{\numberline {A}Some appendix}{61}{appendix.A}
+\contentsline {section}{\numberline {3.4}Paper title}{69}{section.3.4}
+\contentsline {chapter}{\numberline {A}Some appendix}{91}{appendix.A}
